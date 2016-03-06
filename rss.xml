@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[koko]]></title>
         <description><![CDATA[koko]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/koko/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 08:30:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 08:47:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/koko/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>On Mar 2 @bbcproms tweeted: "It's exactly six weeks until our program.." - read what others are saying and join the conversation.</p>]]></description>
+            <link>https://twitter.com/hashtag/BBCProms?src=hash</link>
+            <guid isPermaLink="false">aee33323-e4f8-44ce-ab58-7cbc5aefe6d8</guid>
+            <pubDate>Sun, 06 Mar 2016 08:46:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>hello this is a test</p>]]></description>
-            <link>undefined7b662b0d-17d2-4316-a1f4-2d4db41b5d53/index.html</link>
+            <link>https://thegrid.ai/koko/7b662b0d-17d2-4316-a1f4-2d4db41b5d53/index.html</link>
             <guid isPermaLink="false">7b662b0d-17d2-4316-a1f4-2d4db41b5d53</guid>
             <pubDate>Sun, 06 Mar 2016 08:30:13 GMT</pubDate>
         </item>

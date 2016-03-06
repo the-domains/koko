@@ -1,28 +1,40 @@
-name: koko
-favicon: null
-layout_spectrum: 0.34558309195563197
-typography_spectrum: 0.8348836367949843
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.6646255112718791
-  lightness: 0.6845009243115783
-  saturation: 0.9445156361907721
-  rhythmicContrast: 0.10849475557915866
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.9445156361907721
+  brandStrength: 0.7857143
+  lightness: 0.6845009243115783
+  brandColors:
+    - '#020504'
+    - '#FFFFFC'
+    - '#A36542'
+    - '#FBB46E'
+    - '#4B5D91'
+  rhythmicContrast: 0.1084947555791587
+typography_spectrum: 0.886681
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0
+favicon: null
+name: koko

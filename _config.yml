@@ -1,41 +1,41 @@
-name: koko
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0
+title: Koko
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Koko
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 1
+  brandStrength: 0.5
+  lightness: 1
   brandColors:
     - '#020504'
     - '#FFFFFC'
     - '#A36542'
     - '#FBB46E'
     - '#4B5D91'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.25
-purpose: []
+  rhythmicContrast: 0.7599356
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: koko
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0
+layout_spectrum: 1

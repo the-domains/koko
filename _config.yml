@@ -1,5 +1,36 @@
-title: Koko
-purpose: []
+typography_spectrum: 0
+color:
+  saturation: 1
+  brandStrength: 0.5
+  lightness: 1
+  brandColors:
+    - '#020504'
+    - '#FFFFFC'
+    - '#A36542'
+    - '#FBB46E'
+    - '#4B5D91'
+  rhythmicContrast: 0.7599356
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: koko
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: >-
+      Royal Albert Hall named category winner at 2016 Superbrands UK - Royal
+      Albert Hall
+    id: 1d4d3709-563c-46ed-80ab-92978616b638
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +43,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 1
-  brandStrength: 0.5
-  lightness: 1
-  brandColors:
-    - '#020504'
-    - '#FFFFFC'
-    - '#A36542'
-    - '#FBB46E'
-    - '#4B5D91'
-  rhythmicContrast: 0.7599356
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: koko
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0
-layout_spectrum: 1
+title: Koko
+purpose: []
